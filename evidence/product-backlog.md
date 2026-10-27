@@ -5,7 +5,7 @@ The product backlog is an organised list of project features, requirements, and 
 ## Evidence
 Add a screenshot of your actual product backlog to the `images/` folder.
 
-![Product backlog](../images/product-backlog.png)
+![Product backlog](../images/productbacklog.png)
 
 ## How the Backlog Helps
 - Keeps project requirements in one place.
