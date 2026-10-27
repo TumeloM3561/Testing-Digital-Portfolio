@@ -1,9 +1,9 @@
-# Assessment 3: Product Backlog
+ Assessment 3: Product Backlog
 
 The product backlog is an organised list of project features, requirements, and tasks. Items can be prioritised according to their value and importance.
 
 ## Evidence
-Add a screenshot of your actual product backlog to the `images/` folder.
+
 
 ![Product backlog](../images/productbacklog.png)
 
